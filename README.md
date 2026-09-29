@@ -46,16 +46,7 @@ supported versions can have small floating-point differences.
 Apply for access through the [official dataset record](https://zenodo.org/records/20709796)
 and follow the [challenge instructions](https://takayabe0505.github.io/humob-2026/).
 Place your authorized copy at `data/humob2026-dataset.tsv`, or pass its absolute
-path with `--data`. The data are not bundled and are not downloaded automatically.
-
-The release contains normalized, anonymized OD values, **not raw person counts**.
-Dates marked `NA` are excluded; absent OD entries on valid dates are zero in the
-released representation. The official `-1_-1` sentinel is supported.
-
-Do not commit the TSV, parsed caches, individual predictions or generated
-data-bearing outputs. They are excluded by `.gitignore`. No additional mobility
-dataset is used. The required public calendar and water-service feature snapshots
-are included with provenance in [DATA_SOURCES.md](DATA_SOURCES.md).
+path with `--data`.
 
 ## Reproduce the main results
 
@@ -82,10 +73,6 @@ The metric averages daily diagonal/off-diagonal normalized RMSEs. Its denominato
 cover all 1,476 diagonal and 1,476 x 1,475 off-diagonal pairs, including implicit
 zeros. It is not RMSE pooled over all days or calculated over active pairs only.
 
-**Interpretation:** these windows overlap and were reused during development.
-They are robustness checks, not independent test sets or hidden-target scores.
-See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for release scope and conventions.
-
 ## Generate a submission
 
 ```bash
@@ -93,12 +80,6 @@ python -m rpmlt.cli predict --data data/humob2026-dataset.tsv --output outputs/s
 python -m rpmlt.cli validate outputs/submission.tsv
 ```
 
-The file contains exactly 58 valid target dates, excluding February 2 and March 5.
-Each row contains `YYYYMMDD`, a tab and a Python nested OD dictionary. Values remain
-floating point; do not round to integers or normalize the daily output again.
-The learned ensemble covers the scoring box. Outside-box pairs use the observed
-April mean, matching the original full-area export. This includes any released
-unknown-location sentinel edges.
 
 Local validation checks dates, IDs, finite nonnegative values and exact
 serialization of scoring-box predictions. **It does not replace the official
@@ -152,14 +133,4 @@ benchmarks/        # aggregate reference scores, not OD observations
 ## Citation and license
 
 Please cite the workshop paper and comply with the competition dataset's
-attribution requirements. The dataset documentation also requests citation of
-Yabe et al., *YJMob100K: City-scale and longitudinal dataset of anonymized human
-mobility trajectories*, Scientific Data 11, 397 (2024),
-[doi:10.1038/s41597-024-03237-9](https://doi.org/10.1038/s41597-024-03237-9).
-No publication DOI is invented for the workshop paper.
-
-Source code is released under the [MIT License](LICENSE). That license does not
-relicense the competition dataset, third-party boundary geometry or government
-source documents. Auxiliary data provenance and attribution are documented
-separately. This repository is a curated release from the project code, not the
-private development history.
+attribution requirements. 
