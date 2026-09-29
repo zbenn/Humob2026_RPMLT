@@ -38,8 +38,7 @@ The tests use synthetic inputs and included public auxiliary features. They do
 not download or require the restricted competition dataset.
 
 The reference scores were reproduced with NumPy 1.26.4, pandas 2.2.2, SciPy 1.13.1
-and Matplotlib 3.8.4. `requirements-repro.txt` records this environment. Other
-supported versions can have small floating-point differences.
+and Matplotlib 3.8.4.
 
 ## Obtain the competition data
 
