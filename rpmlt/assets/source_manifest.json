@@ -1,0 +1,169 @@
+{
+  "nanao_water_reports": [
+    {
+      "url": "https://www.city.nanao.lg.jp/kurashi/sumai/suido/josuido/index.html",
+      "retrieved": "2026-09-10",
+      "sha256": "fe992b83d01843a2f33ded68466f10a1fbf253b195825d384ded5fa748a71b7c"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/dansui.html",
+      "retrieved": "2026-09-10",
+      "sha256": "5aefc0b7059afb6e02308219eff6fcded94d8f3c5f8eff5bcb05598d14fc5105"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/kakosuidoufukyujyoukyo-2.html",
+      "retrieved": "2026-09-10",
+      "sha256": "2ea8ea677c3e2340a4b30df2b9b46ba1f35729a980df7f08806de294970cc910"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/kakosuidoufukyujyoukyo.html",
+      "retrieved": "2026-09-10",
+      "sha256": "07d96a21d62a5f0c3edad30c9114f09253223490c091934fa8ee403dad051283"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/kakosuidoufukyujyoukyo-3.html",
+      "retrieved": "2026-09-10",
+      "sha256": "c24c7dae69c4adeabc1e2469c77a7a0d496ac4e0250b4835893024b2625fa7ec"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/kakosuidoufukyujyoukyo-4.html",
+      "retrieved": "2026-09-10",
+      "sha256": "354a49ee937ceb8e2dd0878d04a940291ca0aed90d4f23d070f47b4498e38c73"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/kakosuidoufukyujyoukyo-5.html",
+      "retrieved": "2026-09-10",
+      "sha256": "32c401e749ba280f13480e3e4d570128974b98b766e651d78cdd7cd5ad4d037a"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/kakosuidoufukyujyokyo-6.html",
+      "retrieved": "2026-09-10",
+      "sha256": "eb68126810886ddb19c1c42004fc11a1749b2236083c7be94470eb6566d6f68b"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/kakosuidoufukyujyoukyo-6.html",
+      "retrieved": "2026-09-10",
+      "sha256": "a70315fceb44c35c6a47b4f86c1f0fa3d95b492d4810131404fa65540975b344"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240124.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "d3631bf64cebf5cdfc046f0b9b59221b557e7d03e7f24c17edd281ef7a423b21"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240125-1.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "10941dd7661cd37a7f9dd29ee2f770da15556d95b878953bd24c14cac1c8f80b"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240127-2.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "5c38a6e463f08e9b27ee2d8ec83392700fb8f95f18b52201867fcdf9d1e4c1a7"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240127.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "85916e567efe40b0172a658367c2f6aed282c6792c5d8d0717a3b8f28689be90"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240128-3.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "a2c46c23c8e91793ca4f84ffadce1794ff3c588c3867e45d0717c9109c0a6ec9"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240129-2.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "ae40a690925536fb500fbb8639c6b8f92129861f7cfa82dbe8fbb0cf10fe0c5e"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240130-3.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "6f773910e33ba89800938334f363c749e37fcf2c7da1d1fc2096553c6aab7eb0"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240201-2.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "b8bd70514642e8a513b1360fcbcc91221a8b5a674864ac8e7d813b0b76c434b9"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240201.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "3d557deedf844ec1dfe11a6388a80cb6ab06430663d37f60e28d6457536d7ee1"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240207.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "016dffe54df496bc41e669712a78fa8344fe7e95c203d0ae917f997b98e58021"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240214.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "e7572f447735280a7d362474fe1f395427c27fcebdcf7ff791470434b3804922"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240221.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "1ba7cfa7d68f3333cc339787347ac87dda3d53668ed4d46f383349c0a6b187d9"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240228.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "a7a6cf28f376586b524632dc97af4f92b6028e8dc614d93644c582058521c36c"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240229.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "42936723fbc924f6522aedf675274d557d8cfe4f690f31f3320e0846ed53c4d7"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240301.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "5bb005f6a762abead7827bc293de0e06723a0ab3622d53507b42519ee61b7d90"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240307-3.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "63cb308fe055a67a15ec578c464349f50cbab95905a044d3fd7c55b2a2d26ca5"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240307.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "9f0e9ec57845830f9db64927028488144c4f3f6548d4d19a95b103669fa228db"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240314.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "10eb8422de6407bd37ed5b624fec36dac934000be2d25914d4b0721be29c1f3f"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240321.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "1b5e3476a99cb67d0ea6dd1fad1475449acf28c582c1a889c7db7be46957f27d"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240328.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "696176f275db3f386f2db51a1bbfd496a849de9c05e8e31fa4e10fc961560ccc"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240329.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "6061ee629aa5388972bb3c9b4aeb576c38d93c238f84366a23dfc1dd4c0ea1f1"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240330.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "46d44d7e49e2aafa662df11fbfeb60b887432492c63915785ee787df347f6d6e"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240401-2.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "c9b101f4431f94a2e431a417812a3acc4238939aa1a8db8d3d591656b86daf8f"
+    },
+    {
+      "url": "https://www.city.nanao.lg.jp/jougesuidou/kurashi/sumai/suido/ryokin/documents/eriabetuitiran20240404-2.pdf",
+      "retrieved": "2026-09-10",
+      "sha256": "1a87f5ce4f63ba648327659393468352594cdf20a7be344a06bd6ad9be00cc92"
+    }
+  ]
+}

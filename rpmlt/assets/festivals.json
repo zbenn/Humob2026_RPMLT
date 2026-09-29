@@ -1,0 +1,21 @@
+{
+  "retrieved": "2026-09-10",
+  "selection_warning": "These events were researched after observing July/August validation spikes. This is exploratory and not independent confirmation of predictive improvement.",
+  "events": [
+    {
+      "id": "abare_2024", "start": "2024-07-05", "end": "2024-07-06",
+      "place": "Noto-town, Ushitsu", "status": "held",
+      "sources": ["https://abarematsuri.jp/archives/263", "https://news.tv-asahi.co.jp/news_society/articles/900005246.html"],
+      "published": ["2024-07-01", "2024-07-05"],
+      "caveat": "Organizer asked tourists not to visit; nearby lodgings and temporary parking unavailable. Held festival does not imply normal tourism capacity. No attendance or other mobility dataset used."
+    },
+    {
+      "id": "issaki_2024", "start": "2024-08-03", "end": "2024-08-03",
+      "place": "Nanao, Ishizaki, in front of prefectural fisheries cooperative Nanao branch",
+      "status": "held_reduced_changed_route",
+      "sources": ["https://www.city.nanao.lg.jp/koho/shise/koho/machinokao/r6/08/060803.html"],
+      "published": ["2024-08-07"],
+      "caveat": "Five lantern floats; reduced scale and changed route. Float count is not people count."
+    }
+  ]
+}

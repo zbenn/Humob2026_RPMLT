@@ -1,0 +1,26 @@
+# Restricted inputs and outputs derived from them are NEVER published.
+data/
+outputs/
+cache/
+source_geometry/
+*.tsv
+*.npz
+*.npy
+*.parquet
+*.pkl
+*.pickle
+# Credentials and local environments.
+.env
+.env.*
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.DS_Store
+Thumbs.db
